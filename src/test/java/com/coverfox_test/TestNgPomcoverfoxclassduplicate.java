@@ -43,7 +43,7 @@ public class TestNgPomcoverfoxclassduplicate extends Baseclass {
 		  PropertyConfigurator.configure("log4j.properties");
 		  logger.info("Welcome to Coverfox Testing");
           
-		
+		System.out.println("Hie my name is sagar");
 		
 		
 		
