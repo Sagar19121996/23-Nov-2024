@@ -85,6 +85,7 @@
 2025-04-22 16:17:40,968 - 23rdNov24_CoverFox -INFO - Click on continue Button
 2025-04-22 16:17:49,876 - 23rdNov24_CoverFox -INFO - Validating Result
 2025-04-22 16:17:49,930 - 23rdNov24_CoverFox -INFO - Closing Browser
+<<<<<<< HEAD
 2025-04-27 17:32:59,120 - 23rdNov24_CoverFox -INFO - Welcome to Coverfox Testing
 2025-04-27 17:32:59,127 - 23rdNov24_CoverFox -INFO - Launching Web Browser
 2025-04-27 17:33:06,928 - 23rdNov24_CoverFox -INFO - Clicking on Male Icon
@@ -108,3 +109,35 @@
 2025-04-27 17:40:09,396 - 23rdNov24_CoverFox -INFO - Click on continue Button
 2025-04-27 17:40:17,762 - 23rdNov24_CoverFox -INFO - Validating Result
 2025-04-27 17:40:17,774 - 23rdNov24_CoverFox -INFO - Closing Browser
+=======
+2025-04-27 13:36:44,101 - 23rdNov24_CoverFox -INFO - Welcome to Coverfox Testing
+2025-04-27 13:36:44,105 - 23rdNov24_CoverFox -INFO - Launching Web Browser
+2025-04-27 13:36:51,848 - 23rdNov24_CoverFox -INFO - Clicking on Male Icon
+2025-04-27 13:36:52,574 - 23rdNov24_CoverFox -INFO - Clicking on Wife Icon
+2025-04-27 13:36:53,208 - 23rdNov24_CoverFox -INFO - Clicking on Mother Icon
+2025-04-27 13:36:53,333 - 23rdNov24_CoverFox -INFO - Clicking on Next Button
+2025-04-27 13:36:53,434 - 23rdNov24_CoverFox -INFO - Selecting My age
+2025-04-27 13:42:21,519 - 23rdNov24_CoverFox -INFO - Welcome to Coverfox Testing
+2025-04-27 13:42:21,522 - 23rdNov24_CoverFox -INFO - Launching Web Browser
+2025-04-27 13:42:29,407 - 23rdNov24_CoverFox -INFO - Clicking on Male Icon
+2025-04-27 13:42:30,290 - 23rdNov24_CoverFox -INFO - Clicking on Wife Icon
+2025-04-27 13:42:30,906 - 23rdNov24_CoverFox -INFO - Clicking on Mother Icon
+2025-04-27 13:42:31,432 - 23rdNov24_CoverFox -INFO - Clicking on Next Button
+2025-04-27 13:42:31,602 - 23rdNov24_CoverFox -INFO - Selecting My age
+2025-04-27 13:45:43,886 - 23rdNov24_CoverFox -INFO - Welcome to Coverfox Testing
+2025-04-27 13:45:43,890 - 23rdNov24_CoverFox -INFO - Launching Web Browser
+2025-04-27 13:45:49,829 - 23rdNov24_CoverFox -INFO - Clicking on Male Icon
+2025-04-27 13:45:50,847 - 23rdNov24_CoverFox -INFO - Clicking on Wife Icon
+2025-04-27 13:45:51,445 - 23rdNov24_CoverFox -INFO - Clicking on Mother Icon
+2025-04-27 13:45:51,731 - 23rdNov24_CoverFox -INFO - Clicking on Next Button
+2025-04-27 13:45:51,837 - 23rdNov24_CoverFox -INFO - Selecting My age
+2025-04-27 13:45:53,721 - 23rdNov24_CoverFox -INFO - Selecting Wife age
+2025-04-27 13:45:54,073 - 23rdNov24_CoverFox -INFO - Selecting Mother's age
+2025-04-27 13:45:54,458 - 23rdNov24_CoverFox -INFO - Clicking on Next Button
+2025-04-27 13:45:54,665 - 23rdNov24_CoverFox -INFO - Entering My Pincode
+2025-04-27 13:45:55,321 - 23rdNov24_CoverFox -INFO - Entering Mother's Pincode
+2025-04-27 13:45:55,504 - 23rdNov24_CoverFox -INFO - Entering Mobile Number
+2025-04-27 13:45:55,717 - 23rdNov24_CoverFox -INFO - Click on continue Button
+2025-04-27 13:46:04,031 - 23rdNov24_CoverFox -INFO - Validating Result
+2025-04-27 13:46:04,036 - 23rdNov24_CoverFox -INFO - Closing Browser
+>>>>>>> 3d3ec5a22bc5fef2783f204dd6d2630d62aee2f3
