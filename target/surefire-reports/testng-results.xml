@@ -59,12 +59,12 @@
       <![CDATA[Closing browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-04-22T16:17:25 IST" name="Suite" finished-at="2025-04-22T16:17:50 IST" duration-ms="25055">
+  <suite started-at="2025-04-27T17:39:54 IST" name="Suite" finished-at="2025-04-27T17:40:18 IST" duration-ms="24108">
     <groups>
     </groups>
-    <test started-at="2025-04-22T16:17:25 IST" name="Test" finished-at="2025-04-22T16:17:50 IST" duration-ms="25055">
+    <test started-at="2025-04-27T17:39:54 IST" name="Test" finished-at="2025-04-27T17:40:18 IST" duration-ms="24108">
       <class name="com.coverfox_test.TestNgPomcoverfoxclassduplicate">
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:25 IST" name="LaunchBrowser" finished-at="2025-04-22T16:17:31 IST" duration-ms="5926" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-27T17:39:54 IST" name="LaunchBrowser" finished-at="2025-04-27T17:39:59 IST" duration-ms="5383" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[readingUrlfrom properties file]]>
@@ -74,7 +74,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method is-config="true" signature="precondition()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:32 IST" name="precondition" finished-at="2025-04-22T16:17:41 IST" duration-ms="8843" status="PASS">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-27T17:39:59 IST" name="precondition" finished-at="2025-04-27T17:40:09 IST" duration-ms="9829" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on gender ]]>
@@ -114,7 +114,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- precondition -->
-        <test-method signature="validateplan()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:41 IST" name="validateplan" finished-at="2025-04-22T16:17:49 IST" duration-ms="8801" status="PASS">
+        <test-method signature="validateplan()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-27T17:40:09 IST" name="validateplan" finished-at="2025-04-27T17:40:17 IST" duration-ms="8214" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Getting Planresult]]>
@@ -130,7 +130,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateplan -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:49 IST" name="closingbrowser" finished-at="2025-04-22T16:17:50 IST" duration-ms="803" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-27T17:40:17 IST" name="closingbrowser" finished-at="2025-04-27T17:40:18 IST" duration-ms="584" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing browser]]>
