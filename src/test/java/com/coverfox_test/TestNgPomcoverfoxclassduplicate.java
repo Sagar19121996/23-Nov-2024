@@ -101,7 +101,9 @@ public class TestNgPomcoverfoxclassduplicate extends Baseclass {
 		Reporter.log("TC IS PASS AS BOTH VALUES ARE SAME", true);
 		Reporter.log("this is new test case", true);
 		System.out.println("my new test project");
-		
+		Reporter.log("this is velocity team", true);
+		Reporter.log("this is the test poject of velocity", true);
+		Reporter.log("this end pf the project", true);
 	}
 	
 	
