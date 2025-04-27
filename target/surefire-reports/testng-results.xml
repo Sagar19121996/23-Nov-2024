@@ -53,18 +53,21 @@
       <![CDATA[TC IS PASS AS BOTH VALUES ARE SAME]]>
     </line>
     <line>
+      <![CDATA[this is new test case]]>
+    </line>
+    <line>
       <![CDATA[Congratulation Test validateplan is Passed]]>
     </line>
     <line>
       <![CDATA[Closing browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-04-22T16:17:25 IST" name="Suite" finished-at="2025-04-22T16:17:50 IST" duration-ms="25055">
+  <suite started-at="2025-04-27T13:45:43 IST" name="Suite" finished-at="2025-04-27T13:46:06 IST" duration-ms="23090">
     <groups>
     </groups>
-    <test started-at="2025-04-22T16:17:25 IST" name="Test" finished-at="2025-04-22T16:17:50 IST" duration-ms="25055">
+    <test started-at="2025-04-27T13:45:43 IST" name="Test" finished-at="2025-04-27T13:46:06 IST" duration-ms="23090">
       <class name="com.coverfox_test.TestNgPomcoverfoxclassduplicate">
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:25 IST" name="LaunchBrowser" finished-at="2025-04-22T16:17:31 IST" duration-ms="5926" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@6771beb3]" started-at="2025-04-27T13:45:43 IST" name="LaunchBrowser" finished-at="2025-04-27T13:45:49 IST" duration-ms="5991" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[readingUrlfrom properties file]]>
@@ -74,7 +77,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method is-config="true" signature="precondition()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:32 IST" name="precondition" finished-at="2025-04-22T16:17:41 IST" duration-ms="8843" status="PASS">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@6771beb3]" started-at="2025-04-27T13:45:49 IST" name="precondition" finished-at="2025-04-27T13:45:55 IST" duration-ms="6081" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on gender ]]>
@@ -114,7 +117,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- precondition -->
-        <test-method signature="validateplan()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:41 IST" name="validateplan" finished-at="2025-04-22T16:17:49 IST" duration-ms="8801" status="PASS">
+        <test-method signature="validateplan()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@6771beb3]" started-at="2025-04-27T13:45:55 IST" name="validateplan" finished-at="2025-04-27T13:46:04 IST" duration-ms="8130" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Getting Planresult]]>
@@ -126,11 +129,14 @@
               <![CDATA[TC IS PASS AS BOTH VALUES ARE SAME]]>
             </line>
             <line>
+              <![CDATA[this is new test case]]>
+            </line>
+            <line>
               <![CDATA[Congratulation Test validateplan is Passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateplan -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@4afcd809]" started-at="2025-04-22T16:17:49 IST" name="closingbrowser" finished-at="2025-04-22T16:17:50 IST" duration-ms="803" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.coverfox_test.TestNgPomcoverfoxclassduplicate@6771beb3]" started-at="2025-04-27T13:46:04 IST" name="closingbrowser" finished-at="2025-04-27T13:46:06 IST" duration-ms="2835" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing browser]]>

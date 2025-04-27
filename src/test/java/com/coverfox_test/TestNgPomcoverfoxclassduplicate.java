@@ -99,6 +99,8 @@ public class TestNgPomcoverfoxclassduplicate extends Baseclass {
 		logger.info("Validating Result");	
 		Assert.assertEquals(plancardresult, plancardvalue);
 		Reporter.log("TC IS PASS AS BOTH VALUES ARE SAME", true);
+		Reporter.log("this is new test case", true);
+		System.out.println("my new test project");
 		
 	}
 	

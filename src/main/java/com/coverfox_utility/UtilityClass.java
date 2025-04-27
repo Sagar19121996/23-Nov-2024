@@ -33,10 +33,11 @@ public class UtilityClass {
 	
 	public static String readdatafromexcel(String Sheetname,int row,int column) throws EncryptedDocumentException, IOException
 	{
-		FileInputStream myfile=new FileInputStream("D:\\Api Testing\\coverfoxdata.xlsx");
+		FileInputStream myfile=new FileInputStream("C:\\Users\\AISHAWARYA\\eclipse-workspace\\SagarProject\\23-Nov-2024\\src\\main\\resources\\TestData\\coverfoxdata.xlsx");
 		Sheet mysheet = WorkbookFactory.create(myfile).getSheet(Sheetname);
 		String data = mysheet.getRow(row).getCell(column).getStringCellValue();
 		return data;
+		//D:\Api Testing\coverfoxdata.xlsx
 		
 	}
 	

@@ -11,9 +11,8 @@
         <methods>
           <include name="validateplan"/>
           <include name="LaunchBrowser"/>
-          <include name="validateaddressdetailspage"/>
-          <include name="precondition"/>
           <include name="closingbrowser"/>
+          <include name="precondition"/>
         </methods>
       </class> <!-- com.coverfox_test.TestNgPomcoverfoxclassduplicate -->
     </classes>
